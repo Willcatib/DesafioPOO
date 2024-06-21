@@ -1,18 +1,24 @@
-## Getting Started
+Desafiio de Programação Orientada a Objeto!
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Recebi o desafio de  modelar e diagramar a representação UML do componente iPhone, abrangendo suas funcionalidades como Reprodutor Musical, Aparelho Telefônico e Navegador na Internet.
 
-## Folder Structure
+Contexto
+Com base no vídeo de lançamento do iPhone de 2007, você deve elaborar a diagramação das classes e interfaces utilizando uma ferramenta UML de sua preferência. Em seguida, implemente as classes e interfaces no formato de arquivos .java.
 
-The workspace contains two folders by default, where:
+Funcionalidades a Modelar
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Reprodutor Musical
+Métodos: tocar(), pausar(), selecionarMusica(String musica)
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+Aparelho Telefônico
+Métodos: ligar(String numero), atender(), iniciarCorreioVoz()
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+Navegador na Internet
+Métodos: exibirPagina(String url), adicionarNovaAba(), atualizarPagina()
 
-## Dependency Management
+Objetivo
+Criar um diagrama UML que represente as funcionalidades descritas acima.
+Implementar as classes e interfaces correspondentes em Java (Opcional).
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+
+![DESAFIO DE POO](https://github.com/Willcatib/DesafioPOO/assets/169176498/c9707df8-e6e5-47fc-bd0b-57dd03e56458)
